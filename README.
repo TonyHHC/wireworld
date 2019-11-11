@@ -1,0 +1,5 @@
+# Wireworld cellular automaton
+
+# 執行方式
+./wireworld w5.txt
+./wireworld2 w5.txt
